@@ -1,5 +1,6 @@
   
-**🎓Ambitious Full-Stack Software Engineer with Three Degrees from Soochow University, University of Manchester, and Imperial College London.**  
+**🎓Ambitious to be a Full-Stack Software Engineer and Technical Product Manager.**  
+*Degrees:Imperial College London(MSc), Manchester Metropolitan University(MSc), University of Manchester (BSc), SooChow University(BEng)
   * Coding languages: Java, Typescript and C#.
 
   
