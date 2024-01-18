@@ -12,5 +12,5 @@
 
   
 **💗 Falling in love with beautiful code**
-* "You're beautiful, it's true"
+* "You're beautiful, it's true."
 ![Alt text](https://raw.githubusercontent.com/RoyLuoNanjing/RoyLuoNanjing/main/githubImage.png)
