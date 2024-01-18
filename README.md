@@ -1,10 +1,10 @@
   
 **🎓Ambitious to be a Full-Stack Software Engineer and Technical Product Manager.**  
-* Degrees: Imperial College London(MSc), Manchester Metropolitan University(MSc), University of Manchester (BSc), SooChow University(BEng)
+* Degrees: Imperial College London (MSc), Manchester Metropolitan University (MSc), University of Manchester (BSc), SooChow University (BEng)
   * Coding languages: Java, Typescript and C#.
 
   
-**🚀Currently Pursuing My Second Master's Degree in Computer Science (2022-2024)**  
+**🚀Currently Pursuing My Second Master's Degree in Computer Science from MMU (2022-2024)**  
   * Poised to graduate with distinction (87/100) a year ahead of schedule, easy peasy.
 
  
