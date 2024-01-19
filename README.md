@@ -4,7 +4,7 @@
 * Coding languages: Java, Typescript and C#.
 
   
-**🚀 Currently Pursuing My Second Master's Degree in Computer Science from MMU (2022-2024)**  
+**🚀 Currently pursuing my second Master's Degree in Computer Science from MMU (2022-2024)**  
   * Poised to graduate with distinction (87/100) a year ahead of schedule, easy peasy.
 
  
