@@ -8,7 +8,7 @@
   * Poised to graduate with distinction (87/100) a year ahead of schedule, easy peasy.
 
  
-**🌍 Taking a placement as a software engineer in a start-up focusing on sustainable energy**  
+**🌍 Completed a placement as a software engineer in a start-up focusing on sustainable energy recently**  
   * Nothing better than coding and saving the world at the same time.
 
   
