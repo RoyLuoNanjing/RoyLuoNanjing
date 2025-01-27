@@ -5,7 +5,7 @@
 
   
 **🚀 Recently earned my second Master's Degree in Computer Science from MMU (2022-2024)**  
-  * Graduatde with distinction (87/100).
+  * Graduaded with distinction (87/100).
 
  
 **🌍 Completed a placement as a software engineer in a start-up focusing on sustainable energy recently**  
